@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "PIPSLab1"
+  "defaultProject": "PIPSLab1",
+  "cli": {
+    "analytics": "5fd49a7b-ff00-46d1-b11b-115700154695"
+  }
 }
